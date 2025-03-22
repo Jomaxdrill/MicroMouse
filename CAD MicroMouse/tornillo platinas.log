@@ -1,0 +1,119 @@
+STEP to UG
+! INFO-     NX STEP AP203 - V9.0
+! INFO-      
+! INFO-     Start of Translation: 28-NOV-2015  5:05:21 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\tornillo platinas.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Tornillos métricos para maquinaria ISO
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\tornillo platinas.stp
+! SUMMARY-  Date             2015-11-28T16:08:46-05:00
+! SUMMARY-  Author           user
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v15.6
+! SUMMARY-  Orig_System      Autodesk Inventor 2015
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:      1
+! SUMMARY-  advanced_face ..............................................:     13
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  application_protocol_definition ............................:      1
+! SUMMARY-  axis2_placement_3d .........................................:     27
+! SUMMARY-  b_spline_curve_with_knots ..................................:      4
+! SUMMARY-  cartesian_point ............................................:     78
+! SUMMARY-  circle .....................................................:     11
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conical_surface ............................................:      3
+! SUMMARY-  context_dependent_shape_representation .....................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:      2
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:     58
+! SUMMARY-  edge_curve .................................................:     19
+! SUMMARY-  edge_loop ..................................................:     20
+! SUMMARY-  face_bound .................................................:      7
+! SUMMARY-  face_outer_bound ...........................................:     13
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      3
+! SUMMARY-  item_defined_transformation ................................:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:      4
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  next_assembly_usage_occurrence .............................:      1
+! SUMMARY-  oriented_edge ..............................................:     38
+! SUMMARY-  plane ......................................................:      7
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      2
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      2
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:      2
+! SUMMARY-  product_definition_shape ...................................:      3
+! SUMMARY-  product_related_product_category ...........................:      2
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      1
+! SUMMARY-  shape_definition_representation ............................:      2
+! SUMMARY-  shape_representation .......................................:      2
+! SUMMARY-  shape_representation_relationship ..........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  toroidal_surface ...........................................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      3
+! SUMMARY-  vector .....................................................:      4
+! SUMMARY-  vertex_point ...............................................:     15
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                            363
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 28-NOV-2015 5:05:21 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  5:05:21 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 18
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1427 - M3.5 x 40(3)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  5:05:22 PM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\tornillo platinas_stp.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         1
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         1
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 28-NOV-2015  5:05:23 PM
+! INFO-      

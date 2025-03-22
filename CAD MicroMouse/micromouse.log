@@ -1,0 +1,442 @@
+STEP to UG
+! INFO-     NX STEP AP203 - V9.0
+! INFO-      
+! INFO-     Start of Translation: 28-NOV-2015  8:02:07 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\micromouse.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\micromouse.stp
+! SUMMARY-  Date             2015-11-28T20:01:35-05:00
+! SUMMARY-  Author           user
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v15.6
+! SUMMARY-  Orig_System      Autodesk Inventor 2015
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:     16
+! SUMMARY-  advanced_face ..............................................:    605
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  application_protocol_definition ............................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   1251
+! SUMMARY-  b_spline_curve_with_knots ..................................:     72
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:    112
+! SUMMARY-  cartesian_point ............................................:   4286
+! SUMMARY-  circle .....................................................:    565
+! SUMMARY-  closed_shell ...............................................:     18
+! SUMMARY-  conical_surface ............................................:     86
+! SUMMARY-  context_dependent_shape_representation .....................:     39
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    217
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:   3268
+! SUMMARY-  edge_curve .................................................:   1540
+! SUMMARY-  edge_loop ..................................................:    887
+! SUMMARY-  ellipse ....................................................:     25
+! SUMMARY-  face_bound .................................................:    282
+! SUMMARY-  face_outer_bound ...........................................:    605
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     18
+! SUMMARY-  item_defined_transformation ................................:     39
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    766
+! SUMMARY-  manifold_solid_brep ........................................:     18
+! SUMMARY-  next_assembly_usage_occurrence .............................:     39
+! SUMMARY-  oriented_edge ..............................................:   3080
+! SUMMARY-  plane ......................................................:    282
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     17
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:     17
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:     17
+! SUMMARY-  product_definition_shape ...................................:     56
+! SUMMARY-  product_related_product_category ...........................:     17
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     39
+! SUMMARY-  shape_definition_representation ............................:     17
+! SUMMARY-  shape_representation .......................................:     17
+! SUMMARY-  shape_representation_relationship ..........................:     16
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:      4
+! SUMMARY-  toroidal_surface ...........................................:     16
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     18
+! SUMMARY-  vector .....................................................:    766
+! SUMMARY-  vertex_point ...............................................:   1061
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          20204
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 28-NOV-2015 8:02:08 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:08 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 806
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1112 - M2.5(2)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:09 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 805
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13825 - RTSTMV: Missing vertex at surface singularity.
+! WARNING-  solid body (Solid1) contains faults that could not be corrected
+! WARNING-   
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1427 - M2.5 x 25(6) I
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:09 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 804
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\rueda loca
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:10 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 803
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\rueda loca bola
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:11 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 802
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\bateria
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:11 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 801
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\placa circuito20154
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:11 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 800
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13825 - RTSTMV: Missing vertex at surface singularity.
+! WARNING-  solid body (Solid1) contains faults that could not be corrected
+! WARNING-   
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\EN ISO 7045 - M1.6 x 12 - 4.8 - H(1)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:12 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 799
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1112 - M1.6(2)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:12 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 798
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! WARNING-  solid body contains fault: 13825 - RTSTMV: Missing vertex at surface singularity.
+! WARNING-  solid body (Solid1) contains faults that could not be corrected
+! WARNING-   
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1427 - M3 x 40(6) I
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:13 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 797
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\AS 1112 - M3(2)
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:14 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 796
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\RuedasCentro20149
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:14 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 795
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\RuedasCaucho20148
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:14 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 794
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\eje motor20147
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:15 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 791
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 792
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 793
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\micromotor20146
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:15 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 790
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\PlacaProyectoParaNX_stp20145
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:16 PM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 789
+! STATUS-    
+! STATUS-   fixing vertex off curve and/or edge reversed faults
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\bracket20144
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 28-NOV-2015  8:02:17 PM
+! INFO-     Filing Part ..: C:\Users\user\Desktop\UNIVERSIDAD\8 SEMESTRE\FINITOS\Proyecto final\micromouse_stp.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:    39
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             39
+! INFO-      
+! INFO-     Total number of solids input for this translation       :        18
+! INFO-      
+! INFO-     Number of solids created without body validation faults :        15
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         3
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 28-NOV-2015  8:02:19 PM
+! INFO-      
